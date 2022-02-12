@@ -105,7 +105,7 @@
                 <div class="d-flex flex-column justify-content-center ml-lg-auto mr-lg-5 col-lg-5 col-md-6 col-12">
                     <h2 class="mb-3 text-white" data-aos="fade-up">New to the UC GYM?</h2>
 
-                    <h6 class="mb-4 text-white" data-aos="fade-up">Your membership is up to 2 months FREE ($62.50 per month)</h6>
+                    <h6 class="mb-4 text-white" data-aos="fade-up">Your membership is up to 2 months FREE (870K per month)</h6>
 
                     <p data-aos="fade-up" data-aos-delay="200"> Anjay <a rel="nofollow" href="https://www.tooplate.com" target="_parent">Klik</a> Anjay Mabar</p>
 
@@ -145,9 +145,9 @@
                             <div class="mt-lg-5 mb-lg-0 mb-4 col-lg-5 col-md-10 mx-auto col-12">
                                 <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Hello, we are UC Gym</h2>
 
-                                <p data-aos="fade-up" data-aos-delay="400">You are NOT allowed to redistribute this HTML template downloadable ZIP file on any template collection site. You are allowed to use this template for your personal or business websites.</p>
+                                <p data-aos="fade-up" data-aos-delay="400">"We have waited so long to have you among us. Finally, the time has come. We are delighted to welcome you to join us today!"</p>
 
-                                <p data-aos="fade-up" data-aos-delay="500">If you have any question regarding <a rel="nofollow" href="https://www.tooplate.com/view/2119-gymso-fitness" target="_parent">Gymso Fitness HTML template</a>, you can <a rel="nofollow" href="https://www.tooplate.com/contact" target="_parent">contact Tooplate</a> immediately. Thank you.</p>
+                                <p data-aos="fade-up" data-aos-delay="500">If you have any question regarding <a rel="nofollow" href="https://www.instagram.com/" target="_parent">UC GYM Fitness Admin INA</a>, you can <a rel="nofollow" href="https://www.tooplate.com/contact" target="_parent">contact Admin UC GYM</a> immediately. Thank you.</p>
 
                             </div>
 
@@ -210,9 +210,9 @@
 
                                         <span><strong>Trained by</strong> - Bella</span>
 
-                                        <span class="class-price">$50</span>
+                                        <span class="class-price">720K</span>
 
-                                        <p class="mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+                                        <p class="mt-3">Yoga from Sanskrit means "union", which means "union with nature" or "union with the Creator".</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,9 +226,9 @@
 
                                         <span><strong>Trained by</strong> - Mary</span>
 
-                                        <span class="class-price">$66</span>
+                                        <span class="class-price">950K</span>
 
-                                        <p class="mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+                                        <p class="mt-3">Aerobics is a form of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the aim of improving all elements of fitness.</p>
                                     </div>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@
 
                                         <span><strong>Trained by</strong> - Cathe</span>
 
-                                        <span class="class-price">$75</span>
+                                        <span class="class-price">1.100K</span>
 
                                         <p class="mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing</p>
                                     </div>
