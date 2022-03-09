@@ -228,7 +228,7 @@
 
                                         <span class="class-price">950K</span>
 
-                                        <p class="mt-3">Aerobics is a form of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the aim of improving all elements of fitness.</p>
+                                        <p class="mt-3">low to high intensity physical exercise that mainly relies on aerobic energy generation processes.</p>
                                     </div>
                                 </div>
                             </div>
@@ -244,7 +244,7 @@
 
                                         <span class="class-price">1.100K</span>
 
-                                        <p class="mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+                                        <p class="mt-3">low to high intensity physical exercise that relies on aerobic energy generation processes.</p>
                                     </div>
                                 </div>
                             </div>
@@ -449,11 +449,13 @@
                 <input type="email" class="form-control" name="cf-email" placeholder="Johndoe@gmail.com">
 
                 <input type="tel" class="form-control" name="cf-phone" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
-
                 <textarea class="form-control" rows="3" name="cf-message" placeholder="Additional Message"></textarea>
 
                 <button type="submit" class="form-control" id="submit-button" name="submit">Submit Button</button>
 
+                <p>Lanjutkan metode pembayaran
+                    <a href="https://qris.id/homepage/">klik</a></p>
+                    
                 <div class="custom-control custom-checkbox">
                     <input type="checkbox" class="custom-control-input" id="signup-agree">
                     <label class="custom-control-label text-small text-muted" for="signup-agree">I agree to the <a href="#">Terms &amp;Conditions</a>

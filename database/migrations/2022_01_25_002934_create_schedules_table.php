@@ -17,7 +17,7 @@ class CreateSchedulesTable extends Migration
             $table->id();
             $table->string('hari');
             $table->string('aktifitas');
-            $table->date('aktifitas');
+            $table->date('tanggal');
             $table->timestamps();
         });
     }

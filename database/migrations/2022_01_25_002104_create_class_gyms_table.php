@@ -16,7 +16,7 @@ class CreateClassGymsTable extends Migration
         Schema::create('class_gyms', function (Blueprint $table) {
             $table->id();
             $table->string('nama');
-            $table->integer('harga');
+            $table->biginteger('harga');
             $table->timestamps();
         });
     }
